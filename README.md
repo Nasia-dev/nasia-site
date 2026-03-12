@@ -25,4 +25,4 @@ used to deploy to deploy the website live directly from the respitory
 ##Live Website
 https://nasia-dev.github.io/nasia-site/
 ## Project Preview
-![Na.sia Website](screenshot.png)
+![Na.sia Website](screenshot.jpg)
