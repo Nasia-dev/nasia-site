@@ -11,7 +11,7 @@ Na.sia is a personal technology portfolio project created while learning web dev
 
 ## Technologies Used
 ### HTML5
-Used to structure the webpage and organize the content with semantic element such as; <sections>, <header>, <footer>and <nav>(navigation).
+Used to structure the webpage and organize the content with semantic element such as; sections, header, footer>and nav(navigation).
 ### CSS3
 Used to design the visual appearance of the site including layout colors, animation, font and styling rules.
 ### CSS3 Grid
