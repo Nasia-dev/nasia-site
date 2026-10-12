@@ -1,10 +1,7 @@
 #Na.sia-personal portfolio project
 Na.sia-Exploring Systems, Security and Awareness
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-![HTML5](https://img.shields.io/badge/HTML5-structure-orange)
-![CSS3](hhtps://img.shields.io/badge/CSS3-Styling-blue)
-![Git}(https://img.shields.io/badge/Git-Version%20Control-red)
-![GitHubPages](https://img.shields.io/badge/GitHub-pages-black)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## project Overview
 Na.sia is a personal technology portfolio project created while learning web development and cybersecurity fundamentals. The goal of the site is to document my learning journey while building a professional online presence, that will eventually include projects and research. This site represents the beginning of my work and learning experience in technology and will evolve more as I keep building.
